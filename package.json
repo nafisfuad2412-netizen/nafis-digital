@@ -1,0 +1,9 @@
+{
+  "name": "nafis-digital-cloudflare",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/cloudflare.test.mjs && node tests/assets.test.mjs"
+  },
+  "engines": { "node": ">=24" }
+}

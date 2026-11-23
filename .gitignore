@@ -1,0 +1,10 @@
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+.wrangler/
+.local-data/
+*.sqlite
+*.sqlite-*
+node_modules/
+*.log
